@@ -11,7 +11,7 @@
 <p dir="auto">Currently, I’m diving deep into:</p>
 <li>Python</li>
 <li>Data Analytics</li>
-<li>AI/Machine Learning</li>
+<li>AI/Machine Learning</li> <br>
 <p dir="auto">I enjoy exploring different programming languages and applying what I learn to develop innovative projects with real-world impact. Each day brings a fresh chance to expand my abilities and take on challenges that help me grow. I’m always eager to push my boundaries and turn new ideas into reality, especially when learning feels like a game with levels and achievements</p></li>
 
 </ul>
