@@ -1,6 +1,8 @@
+<p align="center">
+  <img src="assets/banner2.png" alt="Ishan Indrajith — Software Engineering | AI/ML" width="100%">
+</p>
 
-
-  <h1 align="center">`Hello, World! 👋 I'm Ishan`</h1>
+ ## <h1 align="center">`👋 Hey there, I’m Ishan`</h1>
   <p align="center">I am an undergraduate with a passion for problem-solving and continuous learning. Building solutions that matter, one line at a time.</p>
 
 
@@ -48,21 +50,18 @@ I enjoy exploring different programming languages and applying what I learn to d
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
   
-# GitHub Stats:
-
-<br>
+## GitHub Stats:
 
 <p align="center">
-  
   <img src="https://nirzak-streak-stats.vercel.app/?user=IshanWijekoon&theme=codeSTACKr&hide_border=false" alt="GitHub Streak" />
+  
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbba4500-a447-11eb-908a-139aeedae5c.gif" alt="GitHub Animation"/>
 </p>
-<br>
-
 
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
-
+  
 ## Connect with me:
 
 <p>I'm always open to collaborations, discussions, or just chatting about tech, problem-solving, or our favorite superheroes! Feel free to reach out to me:</p>
