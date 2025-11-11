@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/Banner.png" alt="Ishan Indrajith — Software Engineering | AI/ML" width="100%">
+  <img src="assets/banner.png" alt="Ishan Indrajith — Software Engineering | AI/ML" width="100%">
 </p>
 
  ## <h1 align="center">`👋 Hey there, I’m Ishan`</h1>
