@@ -2,7 +2,7 @@
   <img src="assets/banner.png" alt="Ishan Indrajith — Software Engineering | AI/ML" width="100%">
 </p>
 
- ## <h1 align="center">`👋 Hey there, I’m Ishan`</h1>
+  <h1 align="center">`👋 Hey there, I’m Ishan`</h1>
   <p align="center">I am an undergraduate with a passion for problem-solving and continuous learning. Building solutions that matter, one line at a time.</p>
 
 
@@ -12,29 +12,29 @@
 
 ## What I'm Up To
 
-<table>
-<tr>
-<td width="60%" valign="top">
-
-<p dir="auto">Currently, I'm diving deep into:</p>
+<table align="center">
+<tbody>
+  <tr border="none">
+    <td width="50%" align="left">
+    <ul dir="auto">
+    <p dir="auto">Currently, I'm diving deep into:</p>
 
 <ul dir="auto">
   <li>Python</li>
   <li>Data Analytics</li>
   <li>AI / Machine Learning</li>
 </ul>
+<br>
 
 <p dir="auto">
 I enjoy exploring different programming languages and applying what I learn to develop innovative projects with real-world impact. Each day brings a fresh chance to expand my abilities and take on challenges that help me grow. I’m always eager to push my boundaries and turn new ideas into reality, especially when learning feels like a game with levels and achievements.
 </p>
-
-</td>
-<td width="40%" align="center">
-
-<img src="https://media.tenor.com/7spj1csTZBcAAAAM/hacker.gif" alt="Coding" width="400"/>
-
-</td>
-</tr>
+    </td>
+    <td width="50%" align="center">
+    <img align="center" src="https://media.tenor.com/7spj1csTZBcAAAAM/hacker.gif" width = 300px>
+    </td>
+  </tr>
+</tbody>
 </table>
 
 
