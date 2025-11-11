@@ -49,18 +49,30 @@ I enjoy exploring different programming languages and applying what I learn to d
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
-  
-## GitHub Stats:
 
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=IshanWijekoon&theme=codeSTACKr&hide_border=false" alt="GitHub Streak" />
-  
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbba4500-a447-11eb-908a-139aeedae5c.gif" alt="GitHub Animation"/>
-</p>
+## GitHub Analytics
 
-<p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
-<br>
+<table>
+<tr align="center">
+<td width="50%" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=IshanWijekoon&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats" width="100%"/>
+
+</td>
+<td width="50%" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshanWijekoon&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IshanWijekoon&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=FFFFFF" alt="GitHub Streak" width="70%"/>
+
+</div>
+
+---
   
 ## Connect with me:
 
