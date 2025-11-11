@@ -53,22 +53,22 @@ I enjoy exploring different programming languages and applying what I learn to d
 ## GitHub Analytics
 
 <table>
-<tr align="center">
+<tr>
 <td width="50%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=IshanWijekoon&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=IshanWijekoon&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=FFFFFF" alt="GitHub Stats" width="100%"/>
 
 </td>
 <td width="50%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshanWijekoon&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshanWijekoon&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=FFFFFF" alt="Top Languages" width="100%"/>
 
 </td>
 </tr>
 </table>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IshanWijekoon&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=FFFFFF" alt="GitHub Streak" width="70%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IshanWijekoon&theme=dark&hide_border=true&background=0D1117&stroke=00D900&ring=00D900&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D900&sideLabels=00D900&dates=FFFFFF" alt="GitHub Streak" width="70%"/>
 
 </div>
 
