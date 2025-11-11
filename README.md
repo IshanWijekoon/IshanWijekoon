@@ -12,31 +12,34 @@
 
 ## What I'm Up To
 
-<table align="center">
-<tbody>
-  <tr border="none">
-    <td width="50%" align="left">
-    <ul dir="auto">
-    <p dir="auto">Currently, I'm diving deep into:</p>
-    </ul>
-
-<ul dir="auto">
-  <li>Python</li>
-  <li>Data Analytics</li>
-  <li>AI / Machine Learning</li>
-</ul>
-
-<ul dir="auto">
-<p dir="auto">
-I enjoy exploring different programming languages and applying what I learn to develop innovative projects with real-world impact.
-</p></ul>
-    </td>
-    <td width="50%" align="center">
-    <img align="center" src="https://media.tenor.com/7spj1csTZBcAAAAM/hacker.gif" width = 300px>
-    </td>
-  </tr>
-</tbody>
+<table style="width:100%; max-width:900px; margin:0 auto; border-collapse:collapse;">
+  <tbody>
+    <tr>
+      <td style="width:50%; padding:12px; vertical-align:top;">
+        <p dir="auto" style="margin:0 0 8px 0;">Currently, I'm diving deep into:</p>
+        <ul dir="auto" style="margin:0 0 12px 18px; padding:0;">
+          <li>Python</li>
+          <li>Data Analytics</li>
+          <li>AI / Machine Learning</li>
+        </ul>
+        <p dir="auto" style="margin:0;">
+          I enjoy exploring different programming languages and applying what I learn to develop innovative projects with real-world impact. Each day brings a fresh chance to expand my abilities and take on challenges that help me grow.
+        </p>
+      </td>      
+      <td style="width:50%; padding:12px; text-align:center; vertical-align:middle;">
+        <img
+          src="https://media.tenor.com/7spj1csTZBcAAAAM/hacker.gif"
+          alt="Hacker animation"
+          style="max-width:100%; height:auto; display:inline-block; border-radius:8px;"
+        width = 400px>
+      </td>
+    </tr>
+    
+  </tbody>
 </table>
+
+
+
 
 
 
