@@ -69,7 +69,8 @@
 </table>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IshanWijekoon&theme=dark&hide_border=true&background=0D1117&stroke=00D900&ring=00D900&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D900&sideLabels=00D900&dates=FFFFFF" alt="GitHub Streak" width="70%"/>
+ 
+ <img src="https://git-hub-streak-stats.vercel.app/?user=IshanWijekoon&theme=dark&hide_border=true&background=0D1117&stroke=00D900&ring=00D900&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D900&sideLabels=00D900&dates=FFFFFF" alt="GitHub Streak" width="70%"/>
 
 </div>
 
