@@ -2,13 +2,8 @@
   <img src="assets/Banner.gif" alt="Ishan Indrajith — Software Engineering | AI/ML" width="100%" height="300">
 </p>
 
-  <h1 align="center">👋 Hey there</h1>
-  <p align="center">I am an undergraduate with a passion for problem-solving and continuous learning. Building solutions that matter, one line at a time.</p>
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 
-
-  <p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
-<br>
 
 ## What I'm Up To
 
