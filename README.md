@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Ishan Indrajith — Software Engineering | AI/ML" width="100%">
+  <img src="assets/Banner.webm" alt="Ishan Indrajith — Software Engineering | AI/ML" width="100%">
 </p>
 
-  <h1 align="center">`👋 Hey there, I’m Ishan`</h1>
+  <h1 align="center">👋 Hey there</h1>
   <p align="center">I am an undergraduate with a passion for problem-solving and continuous learning. Building solutions that matter, one line at a time.</p>
 
 
